@@ -134,6 +134,53 @@
 
 // QUESTION.15
 
+// not done 
+
+
+// QUESTION.16
+
+
+// const num = undefined
+
+// let result = typeof num;
+
+// console.log("type of user value" + result)
+
+// maybe done 
+
+
+// QUESTION.17
+
+// not done 
+
+// QUESTION.18
+
+
+// console.log(10!= 8)
+
+// done 
+
+
+// QUESTION.19
+
+// function isVowel(character){
+//     var vowels = ["a" , "e" , "i" , "o" , "u" ]
+
+//     character = character.toLowerCase()
+// if(vowels.includes(character)){
+//     return true
+// }else{
+//     return false
+// }
+
+// }
+
+// const user = prompt("Enter your")
+
+// console.log(isVowel(user))
+
+
+// done
 
 
 
